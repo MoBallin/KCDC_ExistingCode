@@ -1,2 +1,4 @@
 #this is my ignore file
 *.dll
+
+[Bb]in/
